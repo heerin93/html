@@ -1,0 +1,26 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    border: black, 5px;
+}
+
+caption {
+    text-align: center;
+    color: violet;
+    font-weight: bold;
+}
+
+th {
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(178, 199, 61);
+    border-width: 5px;
+    background-color: rgb(79, 88, 211);
+}
+
+td {
+    border-style: solid;
+    border-color: rgb(106, 226, 7);
+    border-width: 2px;
+    background-color: rgb(102, 37, 97);
+}
