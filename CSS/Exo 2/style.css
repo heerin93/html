@@ -1,0 +1,36 @@
+h1 {
+    color : red;
+    text-align: center ;
+    font-size: 50px;
+}
+
+h3 {
+    color : blue;
+    font-size: 30px;
+}
+
+p {
+    background-color: grey;
+}
+
+.dernierParagraphe {
+    background-color: pink;
+}
+
+.gras {
+    font-weight: normal;
+    color: yellowgreen;
+}
+
+.italique {
+    font-style: normal ;
+    text-decoration: underline;
+    font-size: 20px;
+    color : orange;
+}
+
+.titre2 {
+    color:green;
+    text-align: right;
+    text-decoration: underline;
+}

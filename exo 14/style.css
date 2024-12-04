@@ -1,0 +1,31 @@
+#contenair2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 5%;
+    margin-bottom: 20px;
+}
+
+#contenair1 {
+    background-color: lightskyblue;
+}
+
+#contenair3 {
+    display : flex;
+    align-self: end;
+    background-color: lightskyblue;
+
+}
+
+article {
+    border : solid 2px black;
+    width: 50%;
+    background-color: blanchedalmond; 
+    display : flex;
+    align-items: center;
+}
+
+@media(max-width : 1080px) {
+    #contenair2 {
+        grid-template-columns: none;
+    }
+}

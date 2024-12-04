@@ -1,0 +1,42 @@
+fieldset {
+    height: 250px ;
+    width: 400px ;
+}
+
+h1 {
+    text-align: center;
+}
+
+#bouton {
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+label {
+    margin-left: 30px ;
+    margin-right : 20px;
+}
+
+.pseudo {
+    margin-bottom: 10px;
+}
+
+#remember {
+    margin-left : 30px;
+    margin-right: 10px;
+}
+
+.checkbox {
+    margin-left: 10px;
+}
+
+#submit:hover {
+    background-color: black;
+    color : white;
+}
+
+#retour:hover {
+    background-color: black;
+    color : white;
+}

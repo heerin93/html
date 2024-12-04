@@ -1,0 +1,23 @@
+body {
+    background-color:  lightskyblue;
+}
+
+ul  {
+    display: flex;
+    list-style :none;
+    
+}
+
+.dropmenu {
+    display: flex;
+    flex-direction : column;
+}
+
+li {
+    display: flex;
+    border :solid black 1px;
+    height: 30px;
+    width: 70px;
+    background-color: lightseagreen;
+    color: white;
+}
