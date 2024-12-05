@@ -1,0 +1,8 @@
+body {
+    border : solid 2px black;
+    border-radius : 30px;
+    display : grid;
+    grid-template-columns: 40% 60%;
+}
+
+
